@@ -56,4 +56,10 @@ This project demonstrates basic to advanced data visualization using **Seaborn**
 
 1. Install required libraries:
 ```bash
-pip install seaborn matplotlib pandas
+pip install seaborn matplotlib pandas/n
+
+2. Run the Python script or Jupyter Notebook.
+📂 Project Structure
+├── seaborn_visualization.py / notebook.ipynb
+├── sales_data.csv
+└── README.md
